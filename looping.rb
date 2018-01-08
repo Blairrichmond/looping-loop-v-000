@@ -3,8 +3,8 @@ def looping
   loop do
     if x < 1
       puts "Wingardium Leviosa"
+    end
   end
-end
 end
 
 looping
